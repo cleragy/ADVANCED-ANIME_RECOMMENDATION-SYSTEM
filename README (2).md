@@ -57,14 +57,3 @@ install the pip package
 conda install pip
 install the requirements for this project
 pip install -r requirements.txt
-
-# Team Members
-
-| Name               | Email                       |
-| -------------      | ---------------             |
-| Asanda Gambu    | sinegugugambu@gmail.com  |
-| Cleragy Kanuni | kanunimkonza@gmail.com     |
-| Coceka Keto  | cocekaketo28@gmail.com |
-| Keamogetswe Mothoa |keamogetswemitchellmothoa@gmail.com
-| Phumzile Sibiya  | sibiyaphumzile9@gmail.com      |
-| Zamancwabe Makhathini  | zamancwabemakhathini@gmail.com |
